@@ -1,0 +1,1 @@
+This is a dynamic webpage where new elements can be created, removed, reaplaced, appended and inserted based on user input. 
